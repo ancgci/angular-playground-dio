@@ -1,5 +1,6 @@
 
 Bem-vindo ao repositório do **Angular-Playground**! Este repositório contém conjuntos de pastas, cada uma referente a um curso oferecido no bootcamp da DIO. Abaixo você encontrará informações sobre como navegar neste repositório.
+Estudos realizados devido ao BootCamp [FullStack da DIO](https://web.dio.me/track/santander-bootcamp-2023-fullstack-java-angular)
 
 ## Cursos Oferecidos
 
